@@ -38,7 +38,7 @@ export default function RootLayout({
             lightSpread={0.9}
             rayLength={1.4}
             followMouse={true}
-            mouseInfluence={0.02}
+            mouseInfluence={0.04}
             noiseAmount={0}
             distortion={0.01}
           />
